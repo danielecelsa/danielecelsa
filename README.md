@@ -21,19 +21,19 @@ I am a Telecommunications Engineer pivoting to **production-grade Generative AI*
 
 ### 🏗️ Engineering Case Studies
 
-#### 1. [Hierarchical Multi-Agent Orchestrator]([https://orchestrator.46.224.88.247.nip.io/])
+#### 1. [Hierarchical Multi-Agent Orchestrator](https://orchestrator.46.224.88.247.nip.io/)
 A **Supervisor-Worker** system that decomposes vague user requests into executable actions across Calendar, Email, and SQL agents.
 *   **Architecture:** LangGraph State Machine with a Supervisor node.
 *   **Key Feature:** Deterministic **SQL Schema Introspection** to eliminate hallucinations during entity resolution.
 *   **Observability:** Custom Callback Handlers for real-time **Token Usage & USD Cost attribution** per-agent.
 
-#### 2. [Decoupled Autonomous Researcher (MCP)]([https://chat-w-search.46.224.88.247.nip.io/])
+#### 2. [Decoupled Autonomous Researcher (MCP)](https://chat-w-search.46.224.88.247.nip.io/)
 An implementation of the **Model Context Protocol (MCP)** standard to separate the LLM reasoning engine (Client) from tool execution (Server).
 *   **Architecture:** Microservices pattern communicating via **Server-Sent Events (SSE)**.
 *   **Key Feature:** **Hybrid Grounding** logic that validates AI summaries against raw search metadata to ensure citation accuracy.
 *   **Stack:** FastMCP (Server) + Streamlit (Client).
 
-#### 3. [Enterprise Document Intelligence]([https://agentic-rag.46.224.88.247.nip.io/])
+#### 3. [Enterprise Document Intelligence](https://agentic-rag.46.224.88.247.nip.io/)
 An **Agentic RAG** system that focuses on data privacy and decision-making over linear retrieval.
 *   **Architecture:** Recursive retrieval loop with query rewriting.
 *   **Key Feature:** **Session-Scoped Vector Stores** (Ephemeral ChromaDB) ensuring strict data isolation between user sessions.
