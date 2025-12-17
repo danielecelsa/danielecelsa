@@ -11,7 +11,7 @@ I am a Telecommunications Engineer pivoting to **production-grade Generative AI*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-orange.svg)]
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-orange.svg)
 ![RAG-Hybrid](https://img.shields.io/badge/RAG-Hybrid%20%2B%20Rerank-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
