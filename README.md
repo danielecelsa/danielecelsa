@@ -3,7 +3,7 @@
 ### GenAI Engineer | Multi-Agent Systems Architect
 **Based in Milan, Italy** 🇮🇹
 
-I am a Telecommunications Engineer pivoting to **production-grade Generative AI**. I don't just write scripts that talk; I engineer resilient, observable, and cost-aware AI architectures. My work focuses on moving beyond simple chatbots to build autonomous systems using primarily **LangGraph**, the **Model Context Protocol (MCP)**, and **Agentic RAG**.
+I am a Telecommunications Engineer pivoting to **production-grade Generative AI**. I engineer resilient, observable, and cost-aware AI architectures. My work focuses on moving beyond simple chatbots to build autonomous systems using primarily **LangGraph**, the **Model Context Protocol (MCP)**, and **Agentic RAG**.
 
 ---
 
