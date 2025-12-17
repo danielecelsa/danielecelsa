@@ -56,8 +56,8 @@ I am currently building an AI Auditor designed to ingest raw video and audio for
 
 ### 📫 Connect with Me
 
-*   **Portfolio & Demos:** [danielecelsa.github.io]([https://danielecelsa.github.io/portfolio/])
-*   **LinkedIn:** [linkedin.com/in/danielecelsa]([https://www.linkedin.com/in/domenico-daniele-celsa-518b758b/])
+*   **Portfolio & Demos:** [my portfollio](https://danielecelsa.github.io/portfolio/)
+*   **LinkedIn:** [my LinkedIn](https://www.linkedin.com/in/domenico-daniele-celsa-518b758b/)
 *   **Email:** danielecelsa@gmail.com
 
 <!--
